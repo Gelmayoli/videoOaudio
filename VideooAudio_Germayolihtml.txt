@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-S">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Video o audio </title>
+    <!-- Germayoli-->
+
+  </head>
+  <body>
+
+<h1> Esta es la pagina de Germayoli</h1>
+<p> Mi nombre es Germayoli Carolina, soy estudiante de Ingeniería en Sistemas y me gustaría aprender todo acerca de la programación en páginas web.</p>
+
+<a href=""
+
+<a href="https://www.bing.com/images/search?view=detailV2&ccid=G5qTRBsn&id=85AFA3DE03DFB2ED64681F98104C7EAA2C22BBAF&thid=OIP.G5qTRBsn4eKZV0AjcV6esgHaEK&mediaurl=https%3a%2f%2fmui.kitchen%2f__export%2f1604968961339%2fsites%2fmuikitchen%2fimg%2f2020%2f11%2f09%2fdulce-leche.png_780026138.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.1b9a93441b27e1e299574023715e9eb2%3frik%3dr7siLKp%252bTBCYHw%26pid%3dImgRaw%26r%3d0&exph=675&expw=1200&q=dulce+de+leche&simid=608027920784914973&FORM=IRPRST&ck=C462E68837108A9E8DC627FCA877B935&selectedIndex=0&itb=0&ajaxhist=0&ajaxserp=0"> Algo que me gusta. </a>
+
+  </body> 
+
+  <ol> 
+
+    <h2> Debes saber sobre mi que:</h2>
+
+<li> Soy competitiva</li>
+<li>Resiliente </li>
+<li>Honesta</li>
+  </ol>
+<br>
+<img src="https://lh3.googleusercontent.com/a/ACg8ocI81100B9ejQgLxD1jm0ybKC18KFmSn1uNGUTa29JCsPQ=s294-c-no"alt ="Yo">
+
+
+    <h3> Soy de la estatura de Vanellope</h3>
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GLnF337jlqU?si=9f1i0twlfRlp1Ltm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+ <!-- Germayoli-->
+  </body>
+</html>
